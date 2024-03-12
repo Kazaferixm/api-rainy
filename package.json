@@ -1,5 +1,5 @@
 {
-  "name": "@tuan149/api-rainny",
+  "name": "@Kazaferixm/api-rainny",
   "version": "1.0.6",
   "description": "connect to api tiwtter",
   "main": "lib/index.js",
@@ -15,7 +15,7 @@
     "type": "git",
     "url": "https://github.com/Kazaferixm/api-rainy.git"
   },
-  "author": "tuan149",
+  "author": "Kazaferixm",
   "license": "ISC",
   "bugs": {
     "url": "https://github.com/Kazaferixm/api-rainy/issues"
