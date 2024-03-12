@@ -1,6 +1,6 @@
 {
-  "name": "@Kazaferixm/api-rainny",
-  "version": "1.0.6",
+  "name": "@kazaferixm/api-rainny",
+  "version": "1.0.8",
   "description": "connect to api tiwtter",
   "main": "lib/index.js",
   "scripts": {
@@ -13,14 +13,14 @@
   ],
   "repository": {
     "type": "git",
-    "url": "https://github.com/Kazaferixm/api-rainy.git"
+    "url": "https://github.com/kazaferixm/api-rainy.git"
   },
-  "author": "Kazaferixm",
+  "author": "kazaferixm",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/Kazaferixm/api-rainy/issues"
+    "url": "https://github.com/kazaferixm/api-rainy/issues"
   },
-  "homepage": "https://github.com/Kazaferixm/api-rainy#readme",
+  "homepage": "https://github.com/kazaferixm/api-rainy#readme",
   "dependencies": {
     "@libphamton/api-client-x": "^1.0.7",
     "@libphamton/chatfanpage": "^1.0.1",
